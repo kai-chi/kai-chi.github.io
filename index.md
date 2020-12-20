@@ -7,3 +7,8 @@
 #
 layout: home
 ---
+
+I am a Research Associate and a PhD candidate in the Database Systems (DIMA) group at TU Berlin mentored by Volker Markl and Jorge Quiané-Ruiz. I work on secure databases.
+
+More info soon but you can check if there is something in [Posts](/posts).
+
