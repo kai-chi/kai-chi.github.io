@@ -56,7 +56,4 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-disqus:
-  shortname: kai-chi
-
 url: https://kai-chi.github.io/
