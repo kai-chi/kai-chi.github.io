@@ -6,7 +6,7 @@ categories: tee sgx dbms
 
 ### How to use this reading list?
 
-This list is designed to help to start with database systems and confidential computing. 
+This list is designed to help to start with confidential computing in database systems. 
 The topics are meant to take you from the general concepts to deep technical papers.
 
 The list is not exhaustive; it is only meant to help you to take off. There are many more interesting works to read.
