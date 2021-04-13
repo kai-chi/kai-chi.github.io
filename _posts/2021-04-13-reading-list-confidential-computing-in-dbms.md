@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Reading List: Confidential Computing in DBMS"
-categories: tee sgx dbms
 ---
 
 ### How to use this reading list?
