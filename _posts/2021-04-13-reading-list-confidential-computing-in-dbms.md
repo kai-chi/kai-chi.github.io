@@ -28,6 +28,7 @@ It will, hopefully, evolve over time. 
 
 ### Understanding TEEs (Intel SGX)
 
+* [Overview of Intel SGX - Part 1, SGX Internals](https://blog.quarkslab.com/overview-of-intel-sgx-part-1-sgx-internals.html)
 * [Intel SGX Explained](https://eprint.iacr.org/2016/086.pdf)
 * [A Memory Encryption Engine Suitable for General Purpose Processors](https://eprint.iacr.org/2016/204.pdf)
 * [VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures](https://dl.acm.org/doi/pdf/10.1145/3296957.3177155)
