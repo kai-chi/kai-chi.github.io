@@ -6,7 +6,7 @@ title: "Reading List: Confidential Computing in DBMS"
 ### How to use this reading list?
 
 This list is designed to help to start with confidential computing in database systems. 
-The topics are meant to take you from the general concepts to deep technical papers.
+The topics are meant to take you from the general concepts to deep technical knowledge and state-of-the-art research.
 
 The list is not exhaustive; it is only meant to help you to take off. There are many more interesting works to read.
 
