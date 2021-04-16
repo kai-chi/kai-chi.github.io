@@ -14,6 +14,8 @@ It will, hopefully, evolve over time. 
 
 ### Confidential Computing
 
+* [Confidetial Computing: Hardware-Based Trusted Execution for Applications and Data](https://confidentialcomputing.io/whitepaper-01-latest/)
+* [A Technical Analysis of Confidential Computing v1.1](https://confidentialcomputing.io/whitepaper-02-latest/)
 * [Toward Confidential Cloud Computing: Extending hardware-enforced cryptographic protection to data while in use](https://dl.acm.org/doi/pdf/10.1145/3454122.3456125)
 * [Enclaves in the Clouds: Legal considerations and broader implications](https://dl.acm.org/doi/pdf/10.1145/3442632.3448126)
 
