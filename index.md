@@ -11,6 +11,7 @@ layout: home
 I am a Research Associate and a PhD candidate in the Database Systems (DIMA) group at TU Berlin mentored by Volker Markl and Jorge Quiané-Ruiz. I work on secure databases and confidential computing.
 
 ### Teaching
+* Big Data Analytics Seminar, SS21, TU Berlin
 * Research Oriented Course on Data Science and Engineering Systems, WS20/21, TU Berlin
 * Foundations of Database Systems Seminar, SS20, TU Berlin
 
