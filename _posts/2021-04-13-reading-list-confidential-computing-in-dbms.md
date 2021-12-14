@@ -36,9 +36,10 @@ It will, hopefully, evolve over time. 
 * [VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures](https://dl.acm.org/doi/pdf/10.1145/3296957.3177155)
 * [How to measure enclave's memory consumption on Intel SGX](https://kai-chi.github.io/sgx/2020/12/20/how-to-measure-enclave-memory-consumption.html)
 
-### DBMS Papers using TEEs
+### Systems Papers using TEEs
 
 * [Building Enclave-Native Storage Engines for Practical Encrypted Databases](https://vldb.org/pvldb/vol14/p1019-sun.pdf)
 * [Azure SQL Database Always Encrypted](https://dl.acm.org/doi/pdf/10.1145/3318464.3386141)
 * [ObliDB: oblivious query processing for secure databases](https://vldb.org/pvldb/vol13/p169-eskandarian.pdf)
 * [Opaque: An Oblivious and Encrypted Distributed Analytics Platform](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-zheng.pdf)
+* [Aria: Tolerating Skewed Workloads in Secure In-memory Key-value Stores](https://ieeexplore.ieee.org/abstract/document/9458662)
