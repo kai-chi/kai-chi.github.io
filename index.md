@@ -15,7 +15,7 @@ My current research has been focusing on bringing confidential computing to larg
 Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdigital.eu/) M.Sc. at TU Berlin and [UPM Madrid](https://www.upm.es/). During my Master's thesis, I collaborated with [Logical Clocks](https://logicalclocks.com) in Stockholm and developed infrastructure to enable streaming IoT data pipelines in [Hopsworks](https://www.hopsworks.ai/).
 
 ## Publications
-* What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments. *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Jonas Traub, Volker Markl*. PVLDB '22 (to appear). [paper.](https://www.agora-ecosystem.com/publications_pdf/join_tee.pdf)
+* What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments. *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Jonas Traub, Volker Markl*. PVLDB '22 (to appear). [paper.](https://vldb.org/pvldb/vol15/p659-maliszewski.pdf)
 * Secure Data Processing at Scale. *Kajetan Maliszewski*. PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slides.](https://kai-chi.github.io/assets/2020_phd_vldb_slides.pdf) [video.](https://www.youtube.com/watch?v=wSNN64zvSFA)
 
 ## Thesis Supervision
