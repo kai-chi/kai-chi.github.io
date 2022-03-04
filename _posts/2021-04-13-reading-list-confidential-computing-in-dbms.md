@@ -27,6 +27,7 @@ It will, hopefully, evolve over time. 
 ### CPU Basics
 
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
+* [What You Must Know about Memory, Caches, and Shared Memory](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/slides/pdf/memory2.pdf)
 
 ### Understanding TEEs (Intel SGX)
 
