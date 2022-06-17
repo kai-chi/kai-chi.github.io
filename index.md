@@ -19,16 +19,16 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 * Secure Data Processing at Scale. *Kajetan Maliszewski*. PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slides.](https://kai-chi.github.io/assets/2020_phd_vldb_slides.pdf) [video.](https://www.youtube.com/watch?v=wSNN64zvSFA)
 
 ## Thesis Supervision
-* Leonhard Rose, Leveraging Distributed Joins in Trusted Execution Environments (2022).
+* Leonhard Rose, Leveraging Distributed Joins in Trusted Execution Environments.
 
 ## Teaching
-* Big Data Analytics Project (BDAPRO), WS21/22, TU Berlin
-* Foundations of Database Systems Seminar (DBSEM), WS21/22, TU Berlin
-* Big Data Analytics Seminar (BDASEM), SS21, TU Berlin
-* Research Oriented Course on Data Science and Engineering Systems (ROC), WS20/21, TU Berlin
-* Foundations of Database Systems Seminar (DBSEM), SS20, TU Berlin
+* Big Data Analytics Project (BDAPRO), TU Berlin : WS21/22
+* Big Data Analytics Seminar (BDASEM), TU Berlin  : SS21, SS22
+* Research Oriented Course on Data Science and Engineering Systems (ROC), TU Berlin : WS20/21
+* Foundations of Database Systems Seminar (DBSEM), TU Berlin : SS20, WS21/22, SS22
 
 ## Service
+* ICDE 2023, external reviewer
 * VLDB 2021, external reviewer
 
 More info soon but you can check if there is something in [Posts](/posts).
