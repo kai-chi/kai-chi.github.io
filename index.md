@@ -15,7 +15,7 @@ My current research has been focusing on bringing confidential computing to larg
 Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdigital.eu/) double M.Sc. at TU Berlin and [UPM Madrid](https://www.upm.es/). During my Master's thesis, I collaborated with [Logical Clocks](https://logicalclocks.com) in Stockholm and developed infrastructure to enable streaming IoT data pipelines in [Hopsworks](https://www.hopsworks.ai/).
 
 ## Publications
-* What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments. *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Jonas Traub, Volker Markl*. PVLDB '22. [paper.](https://vldb.org/pvldb/vol15/p659-maliszewski.pdf) [code.](https://github.com/agora-ecosystem/tee-bench)
+* What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments. *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Jonas Traub, Volker Markl*. PVLDB '22. [paper.](https://vldb.org/pvldb/vol15/p659-maliszewski.pdf) [code.](https://github.com/agora-ecosystem/tee-bench) [slides.](https://www.slideshare.net/Kajetan4/what-is-the-price-of-joining-securely-benchmarking-equijoins-in-trusted-execution-environments)
 * Secure Data Processing at Scale. *Kajetan Maliszewski*. PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slides.](https://kai-chi.github.io/assets/2020_phd_vldb_slides.pdf) [video.](https://www.youtube.com/watch?v=wSNN64zvSFA)
 
 ## Thesis Supervision
@@ -27,7 +27,11 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 * Research Oriented Course on Data Science and Engineering Systems (ROC), TU Berlin : WS20/21
 * Foundations of Database Systems Seminar (DBSEM), TU Berlin : SS20, WS21/22, SS22
 
+## Talks
+* *Relational Joins in Trusted Execution Environments*, Singapore University of Technology and Design (SUTD), Singapore, September 2022
+
 ## Service
+* SIGMOD 2023, availability reviewer
 * ICDE 2023, external reviewer
 * VLDB 2021, external reviewer
 
