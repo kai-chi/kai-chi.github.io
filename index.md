@@ -22,10 +22,11 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 * Leonhard Rose, Leveraging Distributed Joins in Trusted Execution Environments.
 
 ## Teaching
-* Big Data Analytics Project (BDAPRO), TU Berlin : WS21/22
-* Big Data Analytics Seminar (BDASEM), TU Berlin  : SS21, SS22
-* Research Oriented Course on Data Science and Engineering Systems (ROC), TU Berlin : WS20/21
-* Foundations of Database Systems Seminar (DBSEM), TU Berlin : SS20, WS21/22, SS22
+* Database Lab ([DBPRA](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40400&version=8&sprache=2)), TU Berlin : WS22/23
+* Big Data Systems Project ([BDSPRO](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40494&version=7&sprache=2)), TU Berlin : WS21/22
+* Big Data Analytics Seminar ([BDASEM](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40353&version=9&sprache=2)), TU Berlin  : SS21, SS22
+* Research Oriented Course on Data Science and Engineering Systems ([ROC](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40968&version=5&sprache=2)), TU Berlin : WS20/21
+* Advanced Topics in Database and Information Systems Seminar ([DBSEM](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40402&version=8&sprache=2)), TU Berlin : SS20, WS21/22, SS22
 
 ## Talks
 * *Relational Joins in Trusted Execution Environments*, Singapore University of Technology and Design (SUTD), Singapore, September 2022
@@ -35,5 +36,5 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 * ICDE 2023, external reviewer
 * VLDB 2021, external reviewer
 
-More info soon but you can check if there is something in [Posts](/posts).
+Also, check if there is something interesting in [Posts](/posts)!
 
