@@ -32,7 +32,7 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 * *Relational Joins in Trusted Execution Environments*, Singapore University of Technology and Design (SUTD), Singapore, September 2022
 
 ## Service
-* SIGMOD 2023, availability reviewer
+* SIGMOD 2023, external reviewer, availability reviewer
 * ICDE 2023, external reviewer
 * VLDB 2021, external reviewer
 
