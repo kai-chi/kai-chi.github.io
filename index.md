@@ -8,6 +8,7 @@
 layout: home
 ---
 
+<img align="right" src="./assets/portrait.jpg" width="200">
 I am a Research Associate and a PhD candidate in the [Database Systems (DIMA)](https://www.dima.tu-berlin.de) group at [TU Berlin](https://www.tu.berlin/) mentored by [Volker Markl](https://www.dima.tu-berlin.de/menue/team/volker_markl/) and [Jorge Quiané-Ruiz](https://www.user.tu-berlin.de/quiane/). 
 
 My current research has been focusing on bringing confidential computing to large-scale data processing and building the foundations of privacy-preserving cloud systems.
