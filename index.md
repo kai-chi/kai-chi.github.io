@@ -19,6 +19,7 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 * Secure Data Processing at Scale. *Kajetan Maliszewski*. PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slides.](https://kai-chi.github.io/assets/2020_phd_vldb_slides.pdf) [video.](https://www.youtube.com/watch?v=wSNN64zvSFA)
 
 ## Thesis Supervision
+* Tilman Dietzel, EnclOPE: Enclave-Protected State for Order Preserving Encryption.
 * Leonhard Rose, Leveraging Distributed Joins in Trusted Execution Environments.
 
 ## Teaching
