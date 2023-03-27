@@ -24,7 +24,7 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 * Leonhard Rose, Leveraging Distributed Joins in Trusted Execution Environments.
 
 ## Teaching
-* Database Lab ([DBPRA](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40400&version=8&sprache=2)), TU Berlin : WS22/23
+* Database Lab ([DBPRA](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40400&version=8&sprache=2)), TU Berlin : WS22/23, SS23
 * Big Data Systems Project ([BDSPRO](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40494&version=7&sprache=2)), TU Berlin : WS21/22
 * Big Data Analytics Seminar ([BDASEM](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40353&version=9&sprache=2)), TU Berlin  : SS21, SS22
 * Research Oriented Course on Data Science and Engineering Systems ([ROC](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40968&version=5&sprache=2)), TU Berlin : WS20/21
