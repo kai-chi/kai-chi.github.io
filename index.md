@@ -18,10 +18,10 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 ## Publications
 ### Full Papers
 * Cracking-Like Join for Trusted Execution Environments. *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Volker Markl*. PVLDB '23. [paper.](assets/p2527-maliszewski.pdf)[code.](https://github.com/kai-chi/CrkJoin)
-* What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments. *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Jonas Traub, Volker Markl*. PVLDB '22. [paper.](https://vldb.org/pvldb/vol15/p659-maliszewski.pdf) [code.](https://github.com/agora-ecosystem/tee-bench) [video.](https://www.youtube.com/watch?v=fx3TLVXXdyo) [slides.](https://www.slideshare.net/Kajetan4/what-is-the-price-of-joining-securely-benchmarking-equijoins-in-trusted-execution-environments) [reproducibility badge.](https://www.tu.berlin/en/dima/news-details/ein-artikel-von-dima-forschern-wurde-mit-dem-vldb-reproducibility-badge-ausgezeichnet)
+* What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments. *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Jonas Traub, Volker Markl*. PVLDB '22. [paper.](https://vldb.org/pvldb/vol15/p659-maliszewski.pdf) [code.](https://github.com/agora-ecosystem/tee-bench) [video.](https://www.youtube.com/watch?v=fx3TLVXXdyo) [slides.](https://www.slideshare.net/Kajetan4/what-is-the-price-of-joining-securely-benchmarking-equijoins-in-trusted-execution-environments) [poster.](assets/2022-vldb-poster.jpg) [reproducibility.](https://www.tu.berlin/en/dima/news-details/ein-artikel-von-dima-forschern-wurde-mit-dem-vldb-reproducibility-badge-ausgezeichnet)
 
 ### Others
-* TeeBench: Seamless Benchmarking in Trusted Execution Environments. *Kajetan Maliszewski, Tilman Dietzel, Jorge-Arnulfo Quiné-Ruiz, Volker Markl*. SIGMOD '23 (demo). [paper.](https://dl.acm.org/doi/10.1145/3555041.3589726)
+* TeeBench: Seamless Benchmarking in Trusted Execution Environments. *Kajetan Maliszewski, Tilman Dietzel, Jorge-Arnulfo Quiné-Ruiz, Volker Markl*. SIGMOD '23 (demo). [paper.](https://dl.acm.org/doi/10.1145/3555041.3589726) [poster.](assets/2023-sigmod-poster.jpg)
 * Secure Data Processing at Scale. *Kajetan Maliszewski*. PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slides.](https://kai-chi.github.io/assets/2020_phd_vldb_slides.pdf) [video.](https://www.youtube.com/watch?v=wSNN64zvSFA)
 
 ## Thesis Supervision
