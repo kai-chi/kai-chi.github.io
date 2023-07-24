@@ -36,6 +36,7 @@ It will, hopefully, evolve over time. 
 * [A Memory Encryption Engine Suitable for General Purpose Processors](https://eprint.iacr.org/2016/204.pdf)
 * [VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures](https://dl.acm.org/doi/pdf/10.1145/3296957.3177155)
 * [How to measure enclave's memory consumption on Intel SGX](https://kai-chi.github.io/sgx/2020/12/20/how-to-measure-enclave-memory-consumption.html)
+* [Intel SGX Developer Guide](https://download.01.org/intel-sgx/latest/linux-latest/docs/Intel_SGX_Developer_Guide.pdf)
 
 ### Systems Papers using TEEs
 

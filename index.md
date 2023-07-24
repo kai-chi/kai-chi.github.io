@@ -36,6 +36,7 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 * Advanced Topics in Database and Information Systems Seminar ([DBSEM](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40402&version=8&sprache=2)), TU Berlin : SS20, WS21/22, SS22
 
 ## Talks
+* *Secure Databases in TEEs*, security group @ UC Santa Cruz, remote, July 2023
 * *Relational Joins in Trusted Execution Environments*, Singapore University of Technology and Design (SUTD), Singapore, September 2022
 
 ## Service
