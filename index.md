@@ -22,7 +22,7 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 PVLDB '23. [paper.](assets/p2330-maliszewski.pdf)[code.](https://github.com/kai-chi/CrkJoin)
 * What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments\
 *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Jonas Traub, Volker Markl*\
-PVLDB '21. [paper.](hassets/p659-maliszewski.pdf) [code.](https://github.com/agora-ecosystem/tee-bench) [video.](https://www.youtube.com/watch?v=fx3TLVXXdyo) [slides.](https://www.slideshare.net/Kajetan4/what-is-the-price-of-joining-securely-benchmarking-equijoins-in-trusted-execution-environments) [poster.](assets/2022-vldb-poster.jpg) [reproducibility.](https://www.tu.berlin/en/dima/news-details/ein-artikel-von-dima-forschern-wurde-mit-dem-vldb-reproducibility-badge-ausgezeichnet)
+PVLDB '21. [paper.](assets/p659-maliszewski.pdf) [code.](https://github.com/agora-ecosystem/tee-bench) [video.](https://www.youtube.com/watch?v=fx3TLVXXdyo) [slides.](https://www.slideshare.net/Kajetan4/what-is-the-price-of-joining-securely-benchmarking-equijoins-in-trusted-execution-environments) [poster.](assets/2022-vldb-poster.jpg) [reproducibility.](https://www.tu.berlin/en/dima/news-details/ein-artikel-von-dima-forschern-wurde-mit-dem-vldb-reproducibility-badge-ausgezeichnet)
 
 ### Others
 * TeeBench: Seamless Benchmarking in Trusted Execution Environments\
