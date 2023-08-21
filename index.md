@@ -51,6 +51,7 @@ PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slid
 * *Secure Data Processing at Scale*, PhD@VLDB'20, remote
 
 ## Service
+* SIGMOD 2024, external reviewer
 * SIGMOD 2023, external reviewer, availability reviewer
 * ICDE 2023, external reviewer
 * VLDB 2021, external reviewer
