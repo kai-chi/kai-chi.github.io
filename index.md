@@ -8,12 +8,29 @@
 layout: home
 ---
 
-<img align="right" src="./assets/portrait.jpg" width="200">
+<div>
+<div><img align="right" src="./assets/portrait.jpg" width="200"></div>
+</div>
 I am a Research Associate and a PhD candidate in the [Database Systems (DIMA)](https://www.tu.berlin/en/dima) group at [TU Berlin](https://www.tu.berlin/) mentored by [Volker Markl](https://www.bifold.berlin/people/prof-dr-volker-markl.html) and [Jorge Quiané-Ruiz](https://itu.dk/~joqu/). 
 
 My current research has been focusing on confidential computing in data processing systems, privacy-preserving cloud systems, and modern hardware.
 
 Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdigital.eu/) double M.Sc. at TU Berlin and [UPM Madrid](https://www.upm.es/). During my Master's thesis, I collaborated with [Logical Clocks](https://logicalclocks.com) in Stockholm and developed infrastructure to enable streaming IoT data pipelines in [Hopsworks](https://www.hopsworks.ai/).
+
+<div style="dispay: block;margin-left: auto;margin-right: 0;float: right;">
+<a href="mailto:maliszewski at tu-berlin dot de" target="_blank">
+  <img align="" src="./assets/email.png" width="30">
+</a>
+<a href="https://scholar.google.com/citations?user=iUW4hAgAAAAJ" target="_blank">
+  <img align="" src="./assets/scholar.png" width="30">
+</a>
+<a href="https://dblp.uni-trier.de/pid/273/7017.html" target="_blank">
+  <img align="" src="./assets/dblp.png" width="30">
+</a>
+<a href="https://github.com/kai-chi" target="_blank">
+  <img align="" src="./assets/github.png" width="30">
+</a>
+</div>
 
 ## Publications
 ### Full Papers
