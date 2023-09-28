@@ -8,16 +8,9 @@
 layout: home
 ---
 
-<div>
-<div><img align="right" src="./assets/portrait.jpg" width="200"></div>
-</div>
-I am a Research Associate and a PhD candidate in the [Database Systems (DIMA)](https://www.tu.berlin/en/dima) group at [TU Berlin](https://www.tu.berlin/) mentored by [Volker Markl](https://www.bifold.berlin/people/prof-dr-volker-markl.html) and [Jorge Quiané-Ruiz](https://itu.dk/~joqu/). 
-
-My current research has been focusing on confidential computing in data processing systems, privacy-preserving cloud systems, and modern hardware.
-
-Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdigital.eu/) double M.Sc. at TU Berlin and [UPM Madrid](https://www.upm.es/). During my Master's thesis, I collaborated with [Logical Clocks](https://logicalclocks.com) in Stockholm and developed infrastructure to enable streaming IoT data pipelines in [Hopsworks](https://www.hopsworks.ai/).
-
 <div style="dispay: block;margin-left: auto;margin-right: 0;float: right;">
+<div><img align="right" src="./assets/portrait.jpg" width="200" style="margin-bottom: 0.1cm"></div>
+Links:
 <a href="mailto:maliszewski at tu-berlin dot de" target="_blank">
   <img align="" src="./assets/email.png" width="30">
 </a>
@@ -31,6 +24,12 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
   <img align="" src="./assets/github.png" width="30">
 </a>
 </div>
+I am a Research Associate and a PhD candidate in the [Database Systems (DIMA)](https://www.tu.berlin/en/dima) group at [TU Berlin](https://www.tu.berlin/) mentored by [Volker Markl](https://www.bifold.berlin/people/prof-dr-volker-markl.html) and [Jorge Quiané-Ruiz](https://itu.dk/~joqu/). 
+
+My current research has been focusing on confidential computing in data processing systems, privacy-preserving cloud systems, and modern hardware.
+
+Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdigital.eu/) double M.Sc. at TU Berlin and [UPM Madrid](https://www.upm.es/). During my Master's thesis, I collaborated with [Logical Clocks](https://logicalclocks.com) in Stockholm and developed infrastructure to enable streaming IoT data pipelines in [Hopsworks](https://www.hopsworks.ai/).
+
 
 ## Publications
 ### Full Papers
