@@ -60,8 +60,9 @@ PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slid
 * Advanced Topics in Database and Information Systems Seminar ([DBSEM](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40402&version=8&sprache=2)), TU Berlin : SS20, WS21/22, SS22
 
 ## Talks and Presentations
+* *Cracking-Like Join for Trusted Execution Environments*, VLDB'23, Vancouver, Canada
 * *Secure Databases in TEEs*, security group @ UC Santa Cruz, remote, July 2023
-* *TeeBench: Seamless Benchmarking in TEEs*, SIGMOD'23, Seattle, USA
+* *TeeBench: Seamless Benchmarking in TEEs* (demo), SIGMOD'23, Seattle, USA
 * *Relational Joins in Trusted Execution Environments*, Singapore University of Technology and Design (SUTD), Singapore, September 2022
 * *What Is the Price for Joining Securely? Benchmarking Equi-Joins in TEEs*, VLDB'22, Sydney, Australia
 * *Secure Data Processing at Scale*, PhD@VLDB'20, remote
