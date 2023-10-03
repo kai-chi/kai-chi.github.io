@@ -11,16 +11,16 @@ layout: home
 <div style="dispay: block;margin-left: auto;margin-right: 0;float: right;">
 <div><img align="right" src="./assets/portrait.jpg" width="200" style="margin-bottom: 0.1cm"></div>
 Links:
-<a href="mailto:maliszewski at tu-berlin dot de" target="_blank">
+<a href="mailto:maliszewski at tu-berlin dot de">
   <img align="" src="./assets/email.png" width="30">
 </a>
-<a href="https://scholar.google.com/citations?user=iUW4hAgAAAAJ" target="_blank">
+<a href="https://scholar.google.com/citations?user=iUW4hAgAAAAJ">
   <img align="" src="./assets/scholar.png" width="30">
 </a>
-<a href="https://dblp.uni-trier.de/pid/273/7017.html" target="_blank">
+<a href="https://dblp.uni-trier.de/pid/273/7017.html">
   <img align="" src="./assets/dblp.png" width="30">
 </a>
-<a href="https://github.com/kai-chi" target="_blank">
+<a href="https://github.com/kai-chi">
   <img align="" src="./assets/github.png" width="30">
 </a>
 </div>
