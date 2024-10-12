@@ -59,13 +59,14 @@ PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slid
 * ROC Foundations for Graduate Research in Data Management and Machine Learning Systems ([ROC](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=41135&version=4&sprache=2)), TU Berlin : WS20/21
 * Advanced Topics in Database and Information Systems Seminar ([DBSEM](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40402&version=8&sprache=2)), TU Berlin : SS20, WS21/22, SS22
 
-## Talks and Presentations
-* *Cracking-Like Join for Trusted Execution Environments*, VLDB'23, Vancouver, Canada, August 2023
-* *Secure Databases in TEEs*, security group @ UC Santa Cruz, remote, July 2023
-* *TeeBench: Seamless Benchmarking in TEEs* (demo), SIGMOD'23, Seattle, USA, June 2023
-* *Relational Joins in Trusted Execution Environments*, Singapore University of Technology and Design (SUTD), Singapore, September 2022
-* *What Is the Price for Joining Securely? Benchmarking Equi-Joins in TEEs*, VLDB'22, Sydney, Australia
-* *Secure Data Processing at Scale*, PhD@VLDB'20, remote, August 2020
+## Invited Talks and Presentations
+* Secure Joins using TEEs, *NVIDIA, Santa Clara, USA*, October 2024
+* Cracking-Like Join for Trusted Execution Environments, *VLDB'23, Vancouver, Canada*, August 2023
+* Secure Databases with TEEs, *UC Santa Cruz, Santa Cruz, USA*, July 2023
+* TeeBench: Seamless Benchmarking in TEEs (demo), *SIGMOD'23, Seattle, USA*, June 2023
+* Relational Joins in TEEs, *Singapore University of Technology and Design (SUTD), Singapore*, September 2022
+* What Is the Price for Joining Securely? Benchmarking Equi-Joins in TEEs, *VLDB'22, Sydney, Australia*
+* Secure Data Processing at Scale, *PhD@VLDB'20*, August 2020
 
 ## Service
 * 2024 - SIGMOD (external), VLDBJ, AsiaCCS (external)
