@@ -49,9 +49,9 @@ SIGMOD '23 (demo). [paper.](https://dl.acm.org/doi/10.1145/3555041.3589726) [web
 PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slides.](https://kai-chi.github.io/assets/2020_phd_vldb_slides.pdf) [video.](https://www.youtube.com/watch?v=wSNN64zvSFA)
 
 ## Thesis Supervision
-* Cong Dung Nguyen, Evaluating Relational Joins with SIMD Instructions in Intel SGX Enclaves, BSc Thesis
-* Tilman Dietzel, EnclOPE: Enclave-Protected State for Order Preserving Encryption, BSc Thesis
-* Leonhard Rose, Leveraging Distributed Joins in Trusted Execution Environments, BSc Thesis
+* Cong Dung Nguyen, Evaluating Relational Joins with SIMD Instructions in Intel SGX Enclaves, BSc
+* Tilman Dietzel, EnclOPE: Enclave-Protected State for Order Preserving Encryption, BSc
+* Leonhard Rose, Leveraging Distributed Joins in Trusted Execution Environments, BSc
 
 ## Teaching
 * Database Lab ([DBPRA](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40400&version=8&sprache=2)), TU Berlin : WS22/23, SS23, WS23/24, SS24, WS24/25
