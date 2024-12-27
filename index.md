@@ -49,11 +49,12 @@ SIGMOD '23 (demo). [paper.](https://dl.acm.org/doi/10.1145/3555041.3589726) [web
 PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slides.](https://kai-chi.github.io/assets/2020_phd_vldb_slides.pdf) [video.](https://www.youtube.com/watch?v=wSNN64zvSFA)
 
 ## Thesis Supervision
-* Tilman Dietzel <!--, EnclOPE: Enclave-Protected State for Order Preserving Encryption.-->
-* Leonhard Rose <!--, Leveraging Distributed Joins in Trusted Execution Environments.-->
+* Cong Dung Nguyen, Evaluating Relational Joins with SIMD Instructions in Intel SGX Enclaves, BSc Thesis
+* Tilman Dietzel, EnclOPE: Enclave-Protected State for Order Preserving Encryption, BSc Thesis
+* Leonhard Rose, Leveraging Distributed Joins in Trusted Execution Environments, BSc Thesis
 
 ## Teaching
-* Database Lab ([DBPRA](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40400&version=8&sprache=2)), TU Berlin : WS22/23, SS23, WS23/24
+* Database Lab ([DBPRA](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40400&version=8&sprache=2)), TU Berlin : WS22/23, SS23, WS23/24, SS24, WS24/25
 * Big Data Systems Project ([BDSPRO](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40494&version=7&sprache=2)), TU Berlin : WS21/22
 * Big Data Analytics Seminar ([BDASEM](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40353&version=9&sprache=2)), TU Berlin  : SS21, SS22
 * ROC Foundations for Graduate Research in Data Management and Machine Learning Systems ([ROC](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=41135&version=4&sprache=2)), TU Berlin : WS20/21
