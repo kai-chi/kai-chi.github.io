@@ -49,9 +49,9 @@ SIGMOD '23 (demo). [paper.](https://dl.acm.org/doi/10.1145/3555041.3589726) [web
 PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slides.](https://kai-chi.github.io/assets/2020_phd_vldb_slides.pdf) [video.](https://www.youtube.com/watch?v=wSNN64zvSFA)
 
 ## Thesis Supervision
-* Cong Dung Nguyen, Evaluating Relational Joins with SIMD Instructions in Intel SGX Enclaves, BSc
-* Tilman Dietzel, EnclOPE: Enclave-Protected State for Order Preserving Encryption, BSc
-* Leonhard Rose, Leveraging Distributed Joins in Trusted Execution Environments, BSc
+* Evaluating Relational Joins with SIMD Instructions in Intel SGX Enclaves, Cong Dung Nguyen
+* EnclOPE: Enclave-Protected State for Order Preserving Encryption, Tilman Dietzel 
+* Leveraging Distributed Joins in Trusted Execution Environments, Leonhard Rose
 
 ## Teaching
 * Database Lab ([DBPRA](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40400&version=8&sprache=2)), TU Berlin : WS22/23, SS23, WS23/24, SS24, WS24/25
@@ -61,13 +61,14 @@ PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slid
 * Advanced Topics in Database and Information Systems Seminar ([DBSEM](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40402&version=8&sprache=2)), TU Berlin : SS20, WS21/22, SS22
 
 ## Invited Talks and Presentations
-* Secure Joins using TEEs, *NVIDIA, Santa Clara, USA*, October 2024
-* Cracking-Like Join for Trusted Execution Environments, *VLDB'23, Vancouver, Canada*, August 2023
-* Secure Databases with TEEs, *UC Santa Cruz, Santa Cruz, USA*, July 2023
-* TeeBench: Seamless Benchmarking in TEEs (demo), *SIGMOD'23, Seattle, USA*, June 2023
-* Relational Joins in TEEs, *Singapore University of Technology and Design (SUTD), Singapore*, September 2022
-* What Is the Price for Joining Securely? Benchmarking Equi-Joins in TEEs, *VLDB'22, Sydney, Australia*
-* Secure Data Processing at Scale, *PhD@VLDB'20*, August 2020
+* Privacy-Preserving Joins in Untrusted Environments, *Boston University*, March 2025
+* Secure Joins using TEEs, *NVIDIA*, October 2024
+<!-- * Cracking-Like Join for Trusted Execution Environments, *VLDB'23, Vancouver, Canada*, August 2023 -->
+* Secure Databases with TEEs, *UC Santa Cruz*, July 2023
+<!-- * TeeBench: Seamless Benchmarking in TEEs (demo), *SIGMOD'23, Seattle, USA*, June 2023 -->
+* Relational Joins in TEEs, *Singapore University of Technology and Design (SUTD)*, September 2022
+<!-- * What Is the Price for Joining Securely? Benchmarking Equi-Joins in TEEs, *VLDB'22, Sydney, Australia* -->
+<!-- * Secure Data Processing at Scale, *PhD@VLDB'20*, August 2020 -->
 
 ## Service
 * 2024 - SIGMOD (external), VLDBJ, AsiaCCS (external)
