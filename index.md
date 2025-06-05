@@ -33,10 +33,10 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 
 ## Publications
 ### Full Papers
-* **Cracking-Like Join for Trusted Execution Environments**\
+**Cracking-Like Join for Trusted Execution Environments**\
 *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Volker Markl*\
 PVLDB '23. [paper.](assets/p2330-maliszewski.pdf) [code.](https://github.com/kai-chi/CrkJoin) [slides.](assets/2023-vldb-crkj-presentation.pdf) [poster.](assets/2023-vldb-crkj-poster.jpg)
-* **What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments**\
+**What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments**\
 *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Jonas Traub, Volker Markl*\
 PVLDB '21. [paper.](assets/p659-maliszewski.pdf) [code.](https://github.com/agora-ecosystem/tee-bench) [video.](https://www.youtube.com/watch?v=fx3TLVXXdyo) [slides.](assets/2022-vldb-presentation.pdf) [poster.](assets/2022-vldb-poster.jpg) [reproducibility.](https://www.tu.berlin/en/dima/news-details/ein-artikel-von-dima-forschern-wurde-mit-dem-vldb-reproducibility-badge-ausgezeichnet)
 
