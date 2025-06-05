@@ -35,24 +35,24 @@ Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdi
 
 
 # Publications
-## Full Papers
-**Cracking-Like Join for Trusted Execution Environments**\
-*Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Volker Markl*\
-PVLDB '23. [paper.](assets/p2330-maliszewski.pdf) [code.](https://github.com/kai-chi/CrkJoin) [slides.](assets/2023-vldb-crkj-presentation.pdf) [poster.](assets/2023-vldb-crkj-poster.jpg)
-
-**What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments**\
-*Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Jonas Traub, Volker Markl*\
-PVLDB '21. [paper.](assets/p659-maliszewski.pdf) [code.](https://github.com/agora-ecosystem/tee-bench) [video.](https://www.youtube.com/watch?v=fx3TLVXXdyo) [slides.](assets/2022-vldb-presentation.pdf) [poster.](assets/2022-vldb-poster.jpg) [reproducibility.](https://www.tu.berlin/en/dima/news-details/ein-artikel-von-dima-forschern-wurde-mit-dem-vldb-reproducibility-badge-ausgezeichnet)
-
-## Others
+<!-- ## Full Papers -->
 **Privacy-Preserving Joins in Untrusted Environments**\
 *Kajetan Maliszewski*\
 Ph.D. thesis, Technische Universität Berlin, April 2025. [library.](https://depositonce.tu-berlin.de/items/637f6c78-fef4-480f-a99c-1bd7ce958acc) [slides.](https://kai-chi.github.io/assets/phd-defense-presentation.pdf)
+
+**Cracking-Like Join for Trusted Execution Environments**\
+*Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Volker Markl*\
+PVLDB '23. [paper.](assets/p2330-maliszewski.pdf) [code.](https://github.com/kai-chi/CrkJoin) [slides.](assets/2023-vldb-crkj-presentation.pdf) [poster.](assets/2023-vldb-crkj-poster.jpg)
 
 **TeeBench: Seamless Benchmarking in Trusted Execution Environments**\
 *Kajetan Maliszewski, Tilman Dietzel, Jorge-Arnulfo Quiné-Ruiz, Volker Markl*\
 SIGMOD '23 (demo). [paper.](https://dl.acm.org/doi/10.1145/3555041.3589726) [website.](https://teebench.dima.tu-berlin.de) [poster.](assets/2023-sigmod-poster.jpg)
 
+**What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments**\
+*Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Jonas Traub, Volker Markl*\
+PVLDB '21. [paper.](assets/p659-maliszewski.pdf) [code.](https://github.com/agora-ecosystem/tee-bench) [video.](https://www.youtube.com/watch?v=fx3TLVXXdyo) [slides.](assets/2022-vldb-presentation.pdf) [poster.](assets/2022-vldb-poster.jpg) [reproducibility.](https://www.tu.berlin/en/dima/news-details/ein-artikel-von-dima-forschern-wurde-mit-dem-vldb-reproducibility-badge-ausgezeichnet)
+
+<!-- ## Others -->
 **Secure Data Processing at Scale**\
 *Kajetan Maliszewski*\
 PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slides.](https://kai-chi.github.io/assets/2020_phd_vldb_slides.pdf) [video.](https://www.youtube.com/watch?v=wSNN64zvSFA)
