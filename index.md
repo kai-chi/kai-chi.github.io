@@ -25,20 +25,24 @@ Links:
 </a>
 </div>
 
-I am a Research Associate in the [Database Systems (DIMA)](https://www.tu.berlin/en/dima) group at [TU Berlin](https://www.tu.berlin/) led by [Volker Markl](https://www.bifold.berlin/people/prof-dr-volker-markl.html).
+Currently, I work at [RelationalAI] (https://www.relational.ai/) as a Database Systems Engineer.
 
-Recently, I successfully defended my PhD in Computer Science at TU Berlin, mentored by Volker Markl and [Jorge Quiané-Ruiz](https://itu.dk/~joqu/). 
+Prior to that, I was a member of the [Database Systems (DIMA)](https://www.tu.berlin/en/dima) group at [TU Berlin](https://www.tu.berlin/) led by [Volker Markl](https://www.bifold.berlin/people/prof-dr-volker-markl.html), where I did my PhD mentored by Volker Markl and [Jorge Quiané-Ruiz](https://itu.dk/~joqu/). 
 
-My current research has been focusing on confidential computing in data processing systems, privacy-preserving cloud systems, and modern hardware.
+My PhD research focused on confidential computing, privacy-preserving data processing, and modern hardware.
 
 Before joining TU Berlin as a researcher, I completed an [EIT](https://www.eitdigital.eu/) double M.Sc. at TU Berlin and [UPM Madrid](https://www.upm.es/). During my Master's thesis, I collaborated with [Logical Clocks](https://logicalclocks.com) in Stockholm and developed infrastructure to enable streaming IoT data pipelines in [Hopsworks](https://www.hopsworks.ai/).
 
 
 # Publications
 <!-- ## Full Papers -->
+**Privacy-Preserving Stream Joins**\
+*Kajetan Maliszewski, Ioannis Demertzis, Volker Markl*\
+ICDE '27.
+
 **Privacy-Preserving Joins in Untrusted Environments**\
 *Kajetan Maliszewski*\
-Ph.D. thesis, Technische Universität Berlin, April 2025. [library.](https://depositonce.tu-berlin.de/items/637f6c78-fef4-480f-a99c-1bd7ce958acc) [slides.](https://kai-chi.github.io/assets/phd-defense-presentation.pdf)
+Ph.D. thesis, Technische Universität Berlin, 2025. [library.](https://depositonce.tu-berlin.de/items/637f6c78-fef4-480f-a99c-1bd7ce958acc) [slides.](https://kai-chi.github.io/assets/phd-defense-presentation.pdf)
 
 **Cracking-Like Join for Trusted Execution Environments**\
 *Kajetan Maliszewski, Jorge-Arnulfo Quiané-Ruiz, Volker Markl*\
