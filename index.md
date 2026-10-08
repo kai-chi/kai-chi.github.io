@@ -25,9 +25,9 @@ Links:
 </a>
 </div>
 
-Currently, I work at [RelationalAI] (https://www.relational.ai/) as a Database Systems Engineer.
+Currently, I work at [RelationalAI](https://www.relational.ai/) as a Database Systems Engineer.
 
-Prior to that, I was a member of the [Database Systems (DIMA)](https://www.tu.berlin/en/dima) group at [TU Berlin](https://www.tu.berlin/) led by [Volker Markl](https://www.bifold.berlin/people/prof-dr-volker-markl.html), where I did my PhD mentored by Volker Markl and [Jorge Quiané-Ruiz](https://itu.dk/~joqu/). 
+Prior to that, I was a member of the [Database Systems (DIMA)](https://www.tu.berlin/en/dima) group at [BIFOLD](https://www.bifold.berlin/)/[TU Berlin](https://www.tu.berlin/) led by [Volker Markl](https://www.bifold.berlin/people/prof-dr-volker-markl.html), where I did my PhD mentored by Volker Markl and [Jorge Quiané-Ruiz](https://itu.dk/~joqu/). 
 
 My PhD research focused on confidential computing, privacy-preserving data processing, and modern hardware.
 
