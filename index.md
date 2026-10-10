@@ -84,6 +84,8 @@ PhD Workshop @ VLDB '20. [paper.](http://ceur-ws.org/Vol-2652/paper07.pdf) [slid
 <!-- * Secure Data Processing at Scale, *PhD@VLDB'20*, August 2020 -->
 
 # Service
+* 2027 - VLDB
+* 2026 - SIGMOD
 * 2024 - SIGMOD (external), VLDBJ, AsiaCCS (external)
 * 2023 - ICDE (external), SIGMOD (external, availability) 
 * 2021 - VLDB (external)
